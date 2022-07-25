@@ -1,0 +1,13 @@
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/bin/Debug/netcoreapp3.1/Serpiente.deps.json
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/bin/Debug/netcoreapp3.1/Serpiente.runtimeconfig.json
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/bin/Debug/netcoreapp3.1/Serpiente.runtimeconfig.dev.json
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/bin/Debug/netcoreapp3.1/Serpiente.dll
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/bin/Debug/netcoreapp3.1/Serpiente.pdb
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.csproj.AssemblyReference.cache
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.AssemblyInfoInputs.cache
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.AssemblyInfo.cs
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.csproj.CoreCompileInputs.cache
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.dll
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.pdb
+/Users/atas/Documents/CURSO_NEt/C#/Serpiente/Serpiente/obj/Debug/netcoreapp3.1/Serpiente.genruntimeconfig.cache

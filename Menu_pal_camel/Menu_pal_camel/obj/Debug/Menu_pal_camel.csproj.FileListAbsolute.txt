@@ -1,0 +1,6 @@
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/bin/Debug/Menu_pal_camel.exe
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/bin/Debug/Menu_pal_camel.pdb
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/obj/Debug/Menu_pal_camel.csproj.AssemblyReference.cache
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/obj/Debug/Menu_pal_camel.csproj.CoreCompileInputs.cache
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/obj/Debug/Menu_pal_camel.exe
+/Users/atas/Documents/CURSO_NEt/Menu_pal_camel/Menu_pal_camel/obj/Debug/Menu_pal_camel.pdb
