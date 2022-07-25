@@ -1,0 +1,13 @@
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.csproj.AssemblyReference.cache
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.AssemblyInfoInputs.cache
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.AssemblyInfo.cs
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.csproj.CoreCompileInputs.cache
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/bin/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.deps.json
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/bin/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.runtimeconfig.json
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/bin/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.runtimeconfig.dev.json
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/bin/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.dll
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/bin/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.pdb
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.dll
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.pdb
+/Users/atas/Documents/CURSO_NEt/C#/AlvaroGonzalezJuegoCartas/AlvaroGonzalezJuegoCartas/obj/Debug/netcoreapp3.1/AlvaroGonzalezJuegoCartas.genruntimeconfig.cache
