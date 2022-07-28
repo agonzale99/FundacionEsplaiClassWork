@@ -1,0 +1,24 @@
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.exe.config
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.exe
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.pdb
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.AssemblyReference.cache
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.MuestraExistentes.resources
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.Properties.Resources.resources
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.GenerateResource.cache
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.CoreCompileInputs.cache
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.exe
+C:\Users\mati\Desktop\Nueva carpeta\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.pdb
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.exe.config
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.exe
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\bin\Debug\AlvaroGonzalezHospital.pdb
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.AssemblyReference.cache
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.MuestraExistentes.resources
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.Properties.Resources.resources
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.GenerateResource.cache
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.csproj.CoreCompileInputs.cache
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.exe
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.pdb
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.AnadirMedico.resources
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.AnadirPaciente.resources
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.EditarMedico.resources
+C:\Users\mati\Desktop\AlvaroGonzalez\AlvaroGonzalezHospital\AlvaroGonzalezHospital\obj\Debug\AlvaroGonzalezHospital.EditarPAciente.resources
