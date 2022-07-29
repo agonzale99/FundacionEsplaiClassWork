@@ -1,0 +1,11 @@
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\bin\Debug\AlvaroGonzalezSQL.exe.config
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\bin\Debug\AlvaroGonzalezSQL.exe
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\bin\Debug\AlvaroGonzalezSQL.pdb
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.csproj.AssemblyReference.cache
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.BaseDeDatosForm.resources
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.Properties.Resources.resources
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.csproj.GenerateResource.cache
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.csproj.CoreCompileInputs.cache
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.exe
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.pdb
+C:\Users\mati\source\repos\AlvaroGonzalezSQL\AlvaroGonzalezSQL\obj\Debug\AlvaroGonzalezSQL.Update.resources
